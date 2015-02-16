@@ -1,0 +1,4 @@
+--/***********************************************************
+--	DQL (script d'interrogation des données)
+--	Auteurs:		Gabriel Frenette et Guillaume Ouellet 	
+--***********************************************************/

@@ -1,0 +1,4 @@
+--/***********************************************************
+--	DDL Drop (Destruction des tables)
+--	Auteurs:		Gabriel Frenette et Guillaume Ouellet 	
+--***********************************************************/
